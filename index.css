@@ -9,7 +9,8 @@ p span{
 }
 
 .classtest{
-   font-size:150%:first-child;     
+    font-size:first-child;
+    font-size:150% 
 }
 
 body{
