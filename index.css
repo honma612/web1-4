@@ -10,4 +10,7 @@ p span{
 body{
   background-color: #AAAAAA;
   background-image: url(https://raw.githubusercontent.com/honma612/web1-4/master/1489805339775.jpg);
+  
+  border:#FF0000 2px dotted;
+  border-left:00FF00 5px solid;
 }
