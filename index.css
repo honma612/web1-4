@@ -1,1 +1,8 @@
+p span{
+  font-weight: 200;
+}
 
+#idtest{
+  E::first-letter;
+    font-size:150%;
+}
