@@ -5,8 +5,7 @@ p span{
 }
 
 #idtest{
-  E:first-child;
-    font-size:150%;
+  font-size:150%:first-child;    
 }
 
 .classtest{
