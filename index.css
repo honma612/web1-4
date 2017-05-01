@@ -5,8 +5,12 @@ p span{
 }
 
 #idtest{
-  E::first-letter;
+  E:first-child;
     font-size:150%;
+}
+
+.classtest{
+  color:0000FF;
 }
 
 body{
